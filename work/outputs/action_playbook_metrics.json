@@ -1,0 +1,11 @@
+{
+  "development_period": "2026-03-01 to 2026-03-21",
+  "queue_rows": 28474,
+  "page_one_visible_pages": 20916,
+  "striking_distance_pages": 7558,
+  "priority_definition": "pre-decision search impressions",
+  "grouped_validation_precision_at_50_pct": 28.0,
+  "grouped_validation_base_rate_pct": 29.9,
+  "grouped_validation_client_overlap": 0,
+  "automation_status": "human_review_only"
+}
